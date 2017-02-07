@@ -8,7 +8,7 @@ import { AppRegistry } from 'react-native';
 
 import AppNative from './js/AppNative'
 
-class RnKickstarter extends Component {
+class Kickstarter extends Component {
   render() {
     return (
 			<AppNative />
@@ -16,4 +16,4 @@ class RnKickstarter extends Component {
   }
 }
 
-AppRegistry.registerComponent('RnKickstarter', () => RnKickstarter);
+AppRegistry.registerComponent('Kickstarter', () => Kickstarter);
