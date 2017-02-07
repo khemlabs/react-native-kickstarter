@@ -2,7 +2,7 @@
 
 ##Building steps
 
-1. Edit package.json and app.json: chage 'Kickstarter' for your app name.
+1. Edit package.json,app.json,index.ios.js,index.android.js: chage 'Kickstarter' for your app name.
 2. run `npm install`
 3. run `react-client eject`: it should build your android and ios folders
 4. Connect your device or run your emulator
